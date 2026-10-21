@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Replace the banner URL below with your own uploaded GitHub banner if you make one. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0b1f3a,100:2563eb&text=Amanuale%20Belete&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=BUILD%20%2F%20BREAK%20%2F%20SECURE%20%2F%20REPEAT&descAlignY=60&descSize=15" width="100%" alt="Amanuale Belete — Build / Break / Secure / Repeat" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,50:0b1f3a,100:2563eb&text=Amanuale%20Belete&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=BUILD%20%2F%20BREAK%20%2F%20SECURE%20%2F%20REPEAT&descAlignY=62&descSize=14" width="100%" alt="Amanuale Belete — Build / Break / Secure / Repeat" />
 
 ### Web & Mobile Application Pentester · Full-Stack Developer
 
@@ -24,23 +23,25 @@
 
 ## `whoami`
 
-I am **Amanuale Belete**, an Application Security Practitioner and Full-Stack Developer based in Addis Ababa, Ethiopia. I specialize in **offensive web and mobile security**, **scalable system architecture**, and engineering developer tooling that helps teams ship resilient, secure-by-design software.
+**Amanuale Belete** — Application Security Practitioner and Full-Stack Developer based in Addis Ababa, Ethiopia. I specialize in **offensive web and mobile security**, **scalable system architecture**, and developer tooling that helps teams ship resilient, secure-by-design software.
 
-- 🔐 **Offensive Security:** Execute deep-dive web/API penetration tests, Android reverse engineering, and vulnerability research.
-- 🛠️ **Full-Stack Engineering:** Architect production platforms and automated security workflows using `TypeScript`, `Node.js`, `React`, and `Go`.
-- 🚀 **Venture Leadership:** Co-Founding **AxumSec Technologies**, building offensive security platforms and bug bounty infrastructure.
-- 👥 **Technical Leadership:** Lead application security initiatives and cross-functional engineering teams at **INSA**.
-- 🌱 **Continuous Mastery:** Advancing research across distributed system design, cloud-native infrastructure, `DSA`, and autonomous AI agents.
-- 🤝 **Collaboration:** Actively contributing to open-source security tooling and high-impact engineering partnerships.
+- 🔐 **Offensive Security** — Deep-dive web/API penetration testing, Android reverse engineering, and vulnerability research.
+- 🛠️ **Full-Stack Engineering** — Production platforms and automated security workflows built with `TypeScript`, `Node.js`, `React`, and `Go`.
+- 🚀 **Venture Leadership** — Co-Founding **AxumSec Technologies**, building offensive security platforms and bug bounty infrastructure.
+- 👥 **Technical Leadership** — Leading application security initiatives and cross-functional engineering teams at **INSA**.
+- 🌱 **Continuous Mastery** — Research across distributed system design, cloud-native infrastructure, `DSA`, and autonomous AI agents.
+- 🤝 **Collaboration** — Contributing to open-source security tooling and high-impact engineering partnerships.
 
 ---
 
-## `arsenal` — Tech Stack & Security Focus
+## `arsenal`
+
+### Tech Stack
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
-      <h4>💻 Core Languages</h4>
+      <h4>💻 Languages</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
         <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -73,19 +74,17 @@ I am **Amanuale Belete**, an Application Security Practitioner and Full-Stack De
   </tr>
 </table>
 
-### 🎯 Offensive & Defensive Domains
+### Offensive & Defensive Domains
 
-- **Web & API Exploitation:** Deep manual security auditing across REST/GraphQL APIs and complex web architectures.
-- **Mobile Application Security:** Android binary analysis, reverse engineering, and runtime instrumentation via `Frida`.
-- **Identity & Access Control:** Rigorous testing of complex authentication flows (`OAuth2`, `JWT`, `SSO`) and privilege escalation vectors.
-- **Security Standards & Compliance:** Auditing applications against **OWASP Top 10** and **OWASP MASVS** benchmarks.
-- **Vulnerability Management:** Designing automated triage workflows and remediation pipelines for engineering teams.
+- **Web & API Exploitation** — Manual security auditing across REST/GraphQL APIs and complex web architectures.
+- **Mobile Application Security** — Android binary analysis, reverse engineering, and runtime instrumentation via `Frida`.
+- **Identity & Access Control** — Testing complex authentication flows (`OAuth2`, `JWT`, `SSO`) and privilege escalation vectors.
+- **Standards & Compliance** — Auditing against **OWASP Top 10** and **OWASP MASVS** benchmarks.
+- **Vulnerability Management** — Automated triage workflows and remediation pipelines for engineering teams.
 
 ---
 
-## `selected_work` — Featured Projects
-
-> *Pin your strongest repositories on GitHub and replace the links below with exact repository URLs when public.*
+## `selected_work`
 
 <table width="100%">
   <tr>
@@ -120,35 +119,18 @@ I am **Amanuale Belete**, an Application Security Practitioner and Full-Stack De
 
 ---
 
-## `metrics` — GitHub Telemetry
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amanikes&show_icons=true&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1&icon_color=2563EB&rank_icon=github" alt="Amanikes GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanikes&layout=compact&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1" alt="Most-used languages on Amanikes GitHub repositories" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Amanikes&hide_border=true&background=020617&ring=2563EB&fire=60A5FA&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Amanikes GitHub contribution streak" />
-</div>
-
----
-
-## `connect` — Initialize Handshake
+## `connect`
 
 Open to collaborating with software engineers, security researchers, and organizations building resilient technology.
 
-- **GitHub:** [@Amanikes](https://github.com/Amanikes)
-- **AxumSec:** [axumsec.com](https://axumsec.com)
-- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/)
-- **Email:** [amanualebelete@gmail.com](mailto:amanualebelete@gmail.com)
+- **GitHub** — [@Amanikes](https://github.com/Amanikes)
+- **AxumSec** — [axumsec.com](https://axumsec.com)
+- **LinkedIn** — [Connect on LinkedIn](https://www.linkedin.com/)
+- **Email** — [amanualebelete@gmail.com](mailto:amanualebelete@gmail.com)
 
 <br/>
 
 <div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Amanikes&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)](https://github.com/Amanikes)
-
-<br/>
 
 **⚡ Build thoughtfully. Test relentlessly. Secure by design. ⚡**
 
