@@ -1,98 +1,151 @@
 <div align="center">
-  <h1>Amanuel Belete</h1>
-  <p><strong>Web & Mobile Application Security Engineer | Full-Stack Developer | Cybersecurity Product Builder</strong></p>
-  <p>📍 Addis Ababa, Ethiopia</p>
+
+<!-- Replace the banner URL below with your own uploaded GitHub banner if you make one. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0b1f3a,100:2563eb&text=Amanuale%20Belete&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=BUILD%20%2F%20BREAK%20%2F%20SECURE%20%2F%20REPEAT&descAlignY=60&descSize=15" width="100%" alt="Amanuale Belete — Build / Break / Secure / Repeat" />
+
+### Web & Mobile Application Pentester · Full-Stack Developer
+
+**Co-Founder at AxumSec Technologies** · **INSA Team Lead**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Amanikes-0b1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amanikes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:amanualebelete@gmail.com)
+
+*“Code. Secure. Build.”*
+
 </div>
 
 ---
 
-### 🛡️ About Me
+## `whoami`
 
-I work at the intersection of **offensive application security** and **production software engineering**. As a Computer Science student at the American College of Technology, an AppSec practitioner at INSA, and the Co-Founder of **AxumSec Technologies**, I don't just identify vulnerabilities—I architect, build, and deploy the developer tools and platforms that solve them.
+I'm Amanuale Belete, a developer and application security practitioner based in Addis Ababa, Ethiopia. I work across **web and mobile application security**, **full-stack engineering**, and building practical tools that help teams ship and operate secure software.
 
-- 🔭 **Currently Building:** [AxumSec Technologies](https://axumsec.com), a next-generation bug bounty and vulnerability management platform.
-- 💻 **Professional Focus:** Web & Mobile AppSec, Android Reverse Engineering, API Security, and Full-Stack Engineering.
-- 🌱 **Exploring:** AI agents, secure software architecture, and developer tooling automation.
-
----
-
-### ⚔️ Technical Arsenal
-
-#### Application Security & Tooling
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
-![OWASP](https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=white)
-![Wappalyzer](https://img.shields.io/badge/Wappalyzer-0D1117?style=for-the-badge&logo=wappalyzer)
-![Frida](https://img.shields.io/badge/Frida-0D1117?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge)
-![ffuf](https://img.shields.io/badge/ffuf-0D1117?style=for-the-badge)
-![SecLists](https://img.shields.io/badge/SecLists-0D1117?style=for-the-badge)
-![JADX](https://img.shields.io/badge/JADX-0D1117?style=for-the-badge)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-0D1117?style=for-the-badge)
-
-#### Languages & Core Technologies
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,java,sql&theme=dark" alt="TypeScript, JavaScript, Python, Go, Java, SQL" />
-</a>
-
-#### Frontend Architecture
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma&theme=dark" alt="React, Next.js, HTML, CSS, Tailwind, Figma" />
-</a>
-
-#### Backend, APIs & Databases
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,redis,sqlite,docker&theme=dark" alt="Node.js, NestJS, PostgreSQL, Redis, SQLite, Docker" />
-</a>
-
-#### DevOps, Cloud & Infrastructure
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark" alt="Docker, Git, GitHub, Linux" />
-</a>
+- 🔐 Focused on web/API penetration testing, Android application analysis, and application security.
+- 🛠️ Building full-stack platforms and developer tooling with TypeScript, Node.js, React, and more.
+- 🚀 Co-founder of **AxumSec Technologies**, working on cybersecurity platforms and researcher collaboration.
+- 👥 Team lead at INSA, contributing to application security and technical projects.
+- 🌱 Currently strengthening my skills in system design, data structures and algorithms, cloud infrastructure, and AI agents.
+- 🤝 Interested in meaningful open-source work and collaboration on security-focused products.
 
 ---
 
-### 🚀 Featured Projects
-
-#### [AxumSec Technologies](https://axumsec.com)
-**Co-Founder, Head of Operations & Security Engineer**  
-Building the platform interfaces and operational workflows for organizations to seamlessly run bug bounty programs, coordinate with security researchers, and manage end-to-end vulnerability resolution. 
-
-#### GC-SEMS (Cybersecurity Service Provider Evaluation)
-**Backend Architecture & API Development**  
-Architected a comprehensive 12-module backend using **NestJS, PostgreSQL, and TypeORM** for evaluating and qualifying organizational cybersecurity service providers. Engineered a highly granular 7-level Role-Based Access Control (RBAC) system for secure multi-tenant usage.
-
-#### Remote Deployment Automation Agent
-**DevOps & Infrastructure Automation**  
-Developed a **Go-based** lightweight remote deployment agent utilizing WebSockets and GitHub Webhooks to automate remote VPS server application deployment and lifecycle management securely.
-
-#### Gebeta Game Engine
-**Desktop Application Development**  
-Designed and built a **JavaFX** desktop implementation of the traditional Gebeta (ገበጣ) board game, featuring local two-player capabilities, CPU gameplay algorithms, and an integrated SQLite database for state management.
-
----
-
-### 📊 GitHub Statistics
+## `arsenal` — Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanikes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanikes&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" height="195" alt="GitHub Streak" />
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1220?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=3776AB)
+![Go](https://img.shields.io/badge/Go-0b1220?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Java](https://img.shields.io/badge/Java-0b1220?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+
+**Frameworks & Development**
+
+![React](https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0b1220?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-0b1220?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-0b1220?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Django](https://img.shields.io/badge/Django-0b1220?style=for-the-badge&logo=django&logoColor=44B78B)
+
+**Security, Infrastructure & Data**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0b1220?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
+![Frida](https://img.shields.io/badge/Frida-0b1220?style=for-the-badge&logo=frida&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-0b1220?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0b1220?style=for-the-badge&logo=linux&logoColor=FCC624)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![GitLab](https://img.shields.io/badge/GitLab-0b1220?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+
+</div>
+
+### Security interests
+
+- Web application and API penetration testing
+- Android application security and reverse engineering
+- Authentication, authorization, and access-control testing
+- OWASP Top 10 and OWASP MASVS
+- Dynamic analysis and instrumentation with Frida
+- Security testing workflows and vulnerability management
+
+---
+
+## `selected_work` — Featured Projects
+
+> Pin your strongest repositories on GitHub and replace the links below with the exact repository URLs when they are public.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ GC-SEMS</h3>
+      A cybersecurity qualification and evaluation system designed to assess organizations that provide cybersecurity services.
+      <br/><br/>
+      <code>TypeScript</code> <code>NestJS</code> <code>PostgreSQL</code>
+      <br/><br/>
+      <!-- Replace # with the repository URL -->
+      <a href="https://github.com/Amanikes">View repositories →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔷 AxumSec Platform</h3>
+      Cybersecurity platform work focused on bug bounty program management, researcher collaboration, and vulnerability reporting.
+      <br/><br/>
+      <code>React</code> <code>Next.js</code> <code>NestJS</code>
+      <br/><br/>
+      <a href="https://axumsec.com">Visit AxumSec →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Auto-Deploy Platform</h3>
+      A deployment platform in development for connecting repositories to remote deployment agents and managing application deployments.
+      <br/><br/>
+      <code>NestJS</code> <code>Go</code> <code>Docker</code> <code>PostgreSQL</code>
+      <br/><br/>
+      <a href="https://github.com/Amanikes">Explore GitHub →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👥 ACT Dev Community</h3>
+      Community tools and event workflows, including attendance, event administration, and certificate management.
+      <br/><br/>
+      <code>React</code> <code>Django</code> <code>PostgreSQL</code> <code>Telegram Bots</code>
+      <br/><br/>
+      <a href="https://github.com/Amanikes">Explore GitHub →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `metrics` — GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amanikes&show_icons=true&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&rank_icon=github" alt="Amanikes GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanikes&layout=compact&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1" alt="Most-used languages on Amanikes GitHub repositories" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Amanikes&hide_border=true&background=020617&ring=3B82F6&fire=60A5FA&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Amanikes GitHub contribution streak" />
 </div>
 
 ---
 
-### 🔗 Connect With Me
+## `connect`
+
+I'm open to connecting with developers, security researchers, and teams building useful technology.
+
+- **GitHub:** [@Amanikes](https://github.com/Amanikes)
+- **AxumSec:** [axumsec.com](https://axumsec.com)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+- **Email:** [Contact me](mailto:amanualebelete@gmail.com)
 
 <div align="center">
-  <a href="https://github.com/Amanikes">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://axumsec.com">
-    <img src="https://img.shields.io/badge/AxumSec_Technologies-0D1117?style=for-the-badge&logo=security&logoColor=58A6FF" alt="AxumSec" />
-  </a>
-</div>
 
-<br>
+[![Profile Views](https://komarev.com/ghpvc/?username=Amanikes&style=flat&color=2563eb&label=PROFILE+VIEWS)](https://github.com/Amanikes)
 
-<div align="center">
-  <em>"Breaking systems to understand them; building systems to secure them."</em>
+**⚡ Build thoughtfully. Test relentlessly. Secure by design. ⚡**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563eb,50:0b1f3a,100:020617" width="100%" alt="" />
+
 </div>
