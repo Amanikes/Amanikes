@@ -51,29 +51,53 @@ Building reliable backend systems and securing the web with clean architecture a
 
 <div align="center">
 <h2>💻 Tech Stack</h2>
-</div>
-
-<div align="center">
-
-**Languages & Frameworks**
 <br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB)
-![Go](https://img.shields.io/badge/Go-020617?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![NestJS](https://img.shields.io/badge/NestJS-020617?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![Django](https://img.shields.io/badge/Django-020617?style=for-the-badge&logo=django&logoColor=44B78B)
 
-**Security & Infrastructure**
-<br/>
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-020617?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
-![Frida](https://img.shields.io/badge/Frida-020617?style=for-the-badge&logo=frida&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FCC624)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+**Systems & Core Languages**
+<br/><br/>
+![Go](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<br/><br/>
+
+**Backend & Frameworks**
+<br/><br/>
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![gRPC](https://img.shields.io/badge/GRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
+<br/><br/>
+![GraphQL](https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BULLMQ-8A2BE2?style=for-the-badge&logo=redis&logoColor=white) <!-- Added BullMQ here using a Redis logo -->
+
+<br/><br/>
+
+**Distributed Systems, Storage & Databases**
+<br/><br/>
+![Apache Kafka](https://img.shields.io/badge/APACHE_KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/><br/>
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite FTS5](https://img.shields.io/badge/SQLITE_FTS5-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<br/><br/>
+
+**Cloud, DevOps & Observability**
+<br/><br/>
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+<br/><br/>
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
