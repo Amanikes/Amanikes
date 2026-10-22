@@ -23,14 +23,67 @@
 
 ## `whoami`
 
-**Amanuale Belete** — Application Security Practitioner and Full-Stack Developer based in Addis Ababa, Ethiopia. I specialize in **offensive web and mobile security**, **scalable system architecture**, and developer tooling that helps teams ship resilient, secure-by-design software.
+<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="46%" valign="middle" align="center">
 
-- 🔐 **Offensive Security** — Deep-dive web/API penetration testing, Android reverse engineering, and vulnerability research.
-- 🛠️ **Full-Stack Engineering** — Production platforms and automated security workflows built with `TypeScript`, `Node.js`, `React`, and `Go`.
-- 🚀 **Venture Leadership** — Co-Founding **AxumSec Technologies**, building offensive security platforms and bug bounty infrastructure.
-- 👥 **Technical Leadership** — Leading application security initiatives and cross-functional engineering teams at **INSA**.
-- 🌱 **Continuous Mastery** — Research across distributed system design, cloud-native infrastructure, `DSA`, and autonomous AI agents.
-- 🤝 **Collaboration** — Contributing to open-source security tooling and high-impact engineering partnerships.
+<!-- Optional: replace this <pre> with your exported SVG for full color fidelity -->
+<!-- <img src="assets/axumicon.svg" width="240" alt="AxumSec emblem" /> -->
+
+<pre style="margin:0;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:11px;line-height:1.1;color:#58a6ff;white-space:pre;letter-spacing:0;">
+         ███████╗
+        ██╔════╝
+        ███████╗
+        ╚════██║
+        ███████║
+        ╚══════╝
+
+         ╔═══════╗
+         ║  A X  ║
+         ╚═══════╝
+</pre>
+
+<pre style="margin:8px 0 0 0;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:9px;line-height:1.15;color:#8b949e;white-space:pre;letter-spacing:0;">
+    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+    █  B U I L D  /  B R E A K  █
+    █  S E C U R E  /  R E P E A T  █
+    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+</pre>
+
+    </td>
+    <td width="54%" valign="top" style="padding-left:18px;">
+      <pre style="margin:0;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:12px;line-height:1.55;white-space:pre;color:#c9d1d9;">
+<span style="color:#58a6ff;font-weight:700;">amanuale@axumsec</span>
+<span style="color:#8b949e;">-------------------------</span>
+<span style="color:#58a6ff;font-weight:700;">Location</span>      <span style="color:#c9d1d9;">Addis Ababa, Ethiopia</span>
+<span style="color:#58a6ff;font-weight:700;">Role</span>          <span style="color:#c9d1d9;">Application Security Practitioner</span>
+<span style="color:#58a6ff;font-weight:700;">Company</span>       <span style="color:#c9d1d9;">Co-Founder @ AxumSec Technologies</span>
+<span style="color:#58a6ff;font-weight:700;">Team</span>          <span style="color:#c9d1d9;">INSA Team Lead</span>
+<span style="color:#58a6ff;font-weight:700;">Focus</span>         <span style="color:#c9d1d9;">Offensive Web &amp; Mobile Security</span>
+<span style="color:#58a6ff;font-weight:700;">Languages</span>     <span style="color:#c9d1d9;">TypeScript · Python · Go · Java</span>
+<span style="color:#58a6ff;font-weight:700;">Stack</span>         <span style="color:#c9d1d9;">React · Next.js · NestJS · Django</span>
+<span style="color:#58a6ff;font-weight:700;">Tooling</span>       <span style="color:#c9d1d9;">Burp Suite · Frida · Docker · Linux</span>
+<span style="color:#58a6ff;font-weight:700;">Research</span>      <span style="color:#c9d1d9;">Distributed Systems · Cloud-Native · AI</span>
+
+<span style="color:#58a6ff;font-weight:700;">Contact</span>
+<span style="color:#8b949e;">-------------------------</span>
+<span style="color:#58a6ff;font-weight:700;">GitHub</span>        <span style="color:#c9d1d9;">github.com/Amanikes</span>
+<span style="color:#58a6ff;font-weight:700;">AxumSec</span>       <span style="color:#c9d1d9;">axumsec.com</span>
+<span style="color:#58a6ff;font-weight:700;">LinkedIn</span>      <span style="color:#c9d1d9;">linkedin.com/in/amanuale</span>
+<span style="color:#58a6ff;font-weight:700;">Email</span>         <span style="color:#c9d1d9;">amanualebelete@gmail.com</span>
+
+<span style="color:#58a6ff;font-weight:700;">Identity</span>
+<span style="color:#8b949e;">-------------------------</span>
+<span style="color:#c9d1d9;">Build / Break / Secure / Repeat</span>
+<span style="color:#c9d1d9;">Code. Secure. Build.</span>
+      </pre>
+    </td>
+  </tr>
+</table>
+</div>
+
+**Amanuale Belete** — Application Security Practitioner and Full-Stack Developer based in Addis Ababa, Ethiopia. I specialize in **offensive web and mobile security**, **scalable system architecture**, and developer tooling that helps teams ship resilient, secure-by-design software.
 
 ---
 
