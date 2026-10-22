@@ -17,8 +17,8 @@ Building reliable backend systems and securing the web with clean architecture a
 
 [![GitHub](https://img.shields.io/badge/GitHub-Amanikes-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1f3a)](https://github.com/Amanikes)
 [![AxumSec](https://img.shields.io/badge/AxumSec-Platform-020617?style=for-the-badge&logo=shield&logoColor=2563eb&labelColor=0b1f3a)](https://axumsec.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0b1f3a)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-020617?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0b1f3a)](mailto:amanualebelete@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0b1f3a)](https://www.linkedin.com/in/amanuel-belete-2174932b9/)
+[![Email](https://img.shields.io/badge/Email-Contact-020617?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0b1f3a)](mailto:amanualebelete6@gmail.com)
 
 <br/>
 
@@ -35,9 +35,13 @@ Building reliable backend systems and securing the web with clean architecture a
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <p><b>Amanuale Belete</b> here — an Application Security Practitioner and Full-Stack Developer based in Addis Ababa, Ethiopia.</p>
-      <p>I specialize in <b>offensive web and mobile security</b>, scalable system architecture, and developer tooling that helps teams ship resilient, secure-by-design software.</p>
-      <p>Currently, I'm leading teams and building security products at <b>AxumSec</b>, while deepening my work in distributed systems, cloud-native architecture, and AI.</p>
+      <p><b>Amanuale Belete</b><br/>
+      Full‑Stack Developer & Application Security Practitioner</p>
+      
+      <p>I live in Addis Ababa, Ethiopia. My focus is on web and mobile security, scalable system architecture, and developer tools that empower teams to deliver secure and reliable software.</p>
+      
+      <p>Currently, I lead teams and work on security products at AxumSec. I am also expanding my knowledge in distributed systems, cloud-native architecture, and artificial intelligence.</p>
+      
       <p>My goal is simple: write clean code, build reliable software, and secure systems by design.</p>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -73,7 +77,7 @@ Building reliable backend systems and securing the web with clean architecture a
 ![gRPC](https://img.shields.io/badge/GRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
 <br/><br/>
 ![GraphQL](https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BULLMQ-8A2BE2?style=for-the-badge&logo=redis&logoColor=white) <!-- Added BullMQ here using a Redis logo -->
+![BullMQ](https://img.shields.io/badge/BULLMQ-8A2BE2?style=for-the-badge&logo=redis&logoColor=white)
 
 <br/><br/>
 
